@@ -5,7 +5,7 @@
 Engineering graduate passionate about data engineering, ETL pipelines, and analytics. Skilled in Python, SQL, Pandas, PostgreSQL, and Power BI. Looking for entry-level Data Engineer or Data Analyst roles.
 
 **📧 Email:** ashwith2411@gmail.com
-**🔗 LinkedIn:** [Your LinkedIn URL]
+**🔗 LinkedIn:**https://www.linkedin.com/in/ashwith24/
 
 ---
 
@@ -46,7 +46,7 @@ Engineering graduate passionate about data engineering, ETL pipelines, and analy
 ## Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/ashwith24/
-- **GitHub:** 
-- **Email:** [Your Email]
+- **GitHub:** https://github.com/Ashwith2411
+- **Email:** ashwith2411@gmail.com
 
 **I'm actively looking for entry-level Data Engineer or Data Analyst roles!**
