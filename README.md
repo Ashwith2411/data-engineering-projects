@@ -39,7 +39,7 @@ Engineering graduate passionate about data engineering, ETL pipelines, and analy
 - Scheduled daily runs
 - Interactive dashboard with filters
 
-**GitHub:** [Project Link]
+**GitHub:**
 
 ---
 
